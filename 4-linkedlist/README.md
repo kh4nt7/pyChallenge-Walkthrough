@@ -12,3 +12,5 @@ When we look at the source-code, we found
   
 I tried to send a get request with parameter nothing=400, this response happens
 > and the next nothing is 57589
+
+Mom, I think I just found the chain LOL
