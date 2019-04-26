@@ -12,14 +12,15 @@ prev_chain = ""
 
 while True:
 	try:
+		# Send Request
 		response = urllib.request.urlopen(url)
 		resp = response.read().decode()
-		
+		# Filter chain_number
 		number = re.findall(r"[0-9]+", resp)
 		chain = number[0]
 		prev_chain = chain
 		chain_count += 1
-
+		# show Info
 		print("[*] Chain Found: {}, chained {} times".format(chain,chain_count))
 		print("[*] Response: ")
 		print(resp)
