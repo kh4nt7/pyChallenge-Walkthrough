@@ -15,6 +15,7 @@ Hint is banner and so, these dict seems to be a banner <br/>
 each line compressed into a dictionary<br/>
 If we print out every key,value pairs in dictionary as a line<br/>
 We got this <br/>
+![image](https://github.com/kh4nt99/pyChallenge-Walkthrough/blob/master/5-peak/img/next%20lvl.png)
                                                                                              
 Which is banner channel for next lvl :D
 
