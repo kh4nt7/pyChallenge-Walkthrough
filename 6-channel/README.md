@@ -16,7 +16,7 @@ When I view at the list, I found overlapping characters and also `\n`s <br/>
 I assume this as a string so print single character together to form a big string
 
 I got next step finally ... yay
-
+![hockey](https://github.com/kh4nt99/pyChallenge-Walkthrough/blob/master/6-channel/img/next.png)
 next lvl: hockey
 
 ## Reference Links
